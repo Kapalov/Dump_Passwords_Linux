@@ -1,7 +1,7 @@
 # Dump_Passwords_Linux
 Usage
 
-usage: mimipy.py [-h] [--clean] [-v] [-p PID] [--search-password]
+usage: dump.py [-h] [--clean] [-v] [-p PID] [--search-password]
 
 optional arguments:
     -h, --help         show this help message and exit
