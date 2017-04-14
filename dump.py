@@ -26,7 +26,7 @@ try:
         raise VersionError("memorpy version is too old, please update !")
         
 except ImportError as e:
-    logging.warning("%s\ninstall with: \"pip install https://github.com/n1nj4sec/memorpy/archive/master.zip\""%e)
+    logging.warning("%s\ninstall with: \"pip install https://github.com/kapalov/Dump_Passwords_Linux/memorpy-master.zip\""%e)
     raise e
 
 LOOK_AFTER_SIZE=1000*10**3
